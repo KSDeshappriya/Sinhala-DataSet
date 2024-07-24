@@ -1,5 +1,7 @@
 # Sinhala Biggest Dataset Project: Empowering Sinhala AI
 
+> [සිංහලෙන් README](SINHALA.md)
+
 This project aims to create the **largest publicly available Sinhala dataset**, paving the way for the development of robust and accurate Sinhala AI models. 
 
 ## **Why This Project is Important:**
